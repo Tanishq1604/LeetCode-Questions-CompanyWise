@@ -1,11 +1,11 @@
 ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
-1,Two Sum,45.6%,Easy,0.3464144405513164, https://leetcode.com/problems/two-sum
-2,Add Two Numbers,33.9%,Medium,0.303844163691924, https://leetcode.com/problems/add-two-numbers
-21,Merge Two Sorted Lists,53.5%,Easy,0.2612738868325316, https://leetcode.com/problems/merge-two-sorted-lists
+1,Two Sum[x],45.6%,Easy,0.3464144405513164, https://leetcode.com/problems/two-sum
+2,Add Two Numbers[x],33.9%,Medium,0.303844163691924, https://leetcode.com/problems/add-two-numbers
+21,Merge Two Sorted Lists[x],53.5%,Easy,0.2612738868325316, https://leetcode.com/problems/merge-two-sorted-lists
 1096,Brace Expansion II,62.2%,Hard,0.2363887780642304, https://leetcode.com/problems/brace-expansion-ii
 741,Cherry Pickup,33.9%,Hard,0.20909179785855941, https://leetcode.com/problems/cherry-pickup
-5,Longest Palindromic Substring,29.5%,Medium,0.18726302339313927, https://leetcode.com/problems/longest-palindromic-substring
-3,Longest Substring Without Repeating Characters,30.4%,Medium,0.14469274653374686, https://leetcode.com/problems/longest-substring-without-repeating-characters
+5,Longest Palindromic Substring[x],29.5%,Medium,0.18726302339313927, https://leetcode.com/problems/longest-palindromic-substring
+3,Longest Substring Without Repeating Characters[x],30.4%,Medium,0.14469274653374686, https://leetcode.com/problems/longest-substring-without-repeating-characters
 82,Remove Duplicates from Sorted List II,36.8%,Medium,0.1110882064011508, https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii
 274,H-Index,36.1%,Medium,0.07416907257227875, https://leetcode.com/problems/h-index
 706,Design HashMap,61.3%,Easy,0.0683442674369718, https://leetcode.com/problems/design-hashmap
