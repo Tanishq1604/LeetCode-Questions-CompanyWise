@@ -1,5 +1,5 @@
 ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
-1,Two Sum - [x],45.6%,Easy,0.3464144405513164, https://leetcode.com/problems/two-sum
+1,- [x]Two Sum ,45.6%,Easy,0.3464144405513164, https://leetcode.com/problems/two-sum
 2,Add Two Numbers - [x],33.9%,Medium,0.303844163691924, https://leetcode.com/problems/add-two-numbers
 21,Merge Two Sorted Lists - [x],53.5%,Easy,0.2612738868325316, https://leetcode.com/problems/merge-two-sorted-lists
 1096,Brace Expansion II,62.2%,Hard,0.2363887780642304, https://leetcode.com/problems/brace-expansion-ii
